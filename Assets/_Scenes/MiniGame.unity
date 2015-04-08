@@ -136,7 +136,7 @@ GameObject:
   - 114: {fileID: 29229602}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -194,7 +194,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 844913500}
   m_GameObject: {fileID: 29229600}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -524,7 +524,7 @@ GameObject:
   - 114: {fileID: 180189445}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -582,7 +582,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 1024901764}
   m_GameObject: {fileID: 180189443}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -609,7 +609,7 @@ GameObject:
   - 114: {fileID: 246737734}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -667,7 +667,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 561190769}
   m_GameObject: {fileID: 246737732}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -890,7 +890,7 @@ GameObject:
   - 114: {fileID: 427023233}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -948,7 +948,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 1077725360}
   m_GameObject: {fileID: 427023231}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -1073,7 +1073,7 @@ GameObject:
   - 114: {fileID: 456116743}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1119,7 +1119,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 1266282126}
   m_GameObject: {fileID: 456116742}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -1353,7 +1353,7 @@ GameObject:
   - 114: {fileID: 912811677}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1411,7 +1411,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 1478277143}
   m_GameObject: {fileID: 912811675}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -1555,7 +1555,7 @@ GameObject:
   - 114: {fileID: 1030813853}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1613,7 +1613,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 19330707}
   m_GameObject: {fileID: 1030813851}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -1688,7 +1688,7 @@ GameObject:
   - 114: {fileID: 1075396626}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1746,7 +1746,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 179242912}
   m_GameObject: {fileID: 1075396624}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -1821,7 +1821,7 @@ GameObject:
   - 114: {fileID: 1203163985}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1879,7 +1879,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 130794765}
   m_GameObject: {fileID: 1203163983}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -1954,7 +1954,7 @@ GameObject:
   - 114: {fileID: 1369503394}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2012,7 +2012,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 1849381710}
   m_GameObject: {fileID: 1369503392}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -2039,7 +2039,7 @@ GameObject:
   - 114: {fileID: 1467871555}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2097,7 +2097,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 1052410394}
   m_GameObject: {fileID: 1467871553}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -2172,7 +2172,7 @@ GameObject:
   - 114: {fileID: 1806593904}
   m_Layer: 0
   m_Name: PickUp
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2230,7 +2230,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 1989684298}
   m_GameObject: {fileID: 1806593902}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -2329,6 +2329,10 @@ Prefab:
     - target: {fileID: 427470, guid: 476c26681dc9d2243a58d64f661fd15e, type: 2}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2327470, guid: 476c26681dc9d2243a58d64f661fd15e, type: 2}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 476c26681dc9d2243a58d64f661fd15e, type: 2}
